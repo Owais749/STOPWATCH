@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(./images/back.jpg);
+}
+.main{
+    padding-top: 300px;
+}
+.time{
+    display: flex ;
+    justify-content: center;
+
+}
+.button{
+    display: flex ;
+    justify-content: center;
+}
+.time1{
+    padding: 20px;
+    margin: 10px;
+    font-size: 72pt;
+}
+.button1{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: royalblue ;
+    color: blanchedalmond;
+}
+
